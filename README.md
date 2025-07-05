@@ -14,4 +14,4 @@ I have used r/pics as the choice of subreddit.
 To download Top 10 images sorted by top of all time giving me the url https://www.reddit.com/r/pics/top/?t=all 
 
 To make it work as intended the workaround I used is that, 
-you need to set the User Agent 
+you need to provide a User Agent which makes Reddit treat our curl request like a real browser.
